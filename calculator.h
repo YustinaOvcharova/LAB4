@@ -4,7 +4,7 @@
 class Calculator
 {
 	public:
-		int Add (double, double);
+		static double Add (double, double);
 		int Sub (double, double);
 };
 

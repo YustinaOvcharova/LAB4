@@ -1,0 +1,4 @@
+/home/kenplix/calculator/CMakeFiles/rebuild_cache.dir
+/home/kenplix/calculator/CMakeFiles/calculator.dir
+/home/kenplix/calculator/CMakeFiles/edit_cache.dir
+/home/kenplix/calculator/CMakeFiles/calc.o.dir

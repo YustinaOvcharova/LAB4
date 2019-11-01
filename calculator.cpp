@@ -1,6 +1,5 @@
-#include "calculator.h"
-
-int Calculator::Add (double a, double b)
+#include "/home/kenplix/calculator/calculator.h"
+double Calculator::Add (double a, double b)
 {
 	return a + b + 0.5;
 }
